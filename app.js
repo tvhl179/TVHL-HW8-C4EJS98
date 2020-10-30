@@ -45,8 +45,6 @@ function bai10(name, wish){
 }
 
 // Ex 11
-// 11.1: Trong file index.html
-// 11.2:
 let name = document.getElementById("name");
 let addButton = document.getElementById("add-btn");
 let result = document.getElementById("result");
